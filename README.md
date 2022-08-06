@@ -19,5 +19,7 @@ A keyboard input application for Philippine Hokkien (Lannang-ue).
 
 ## Contributors:
 [Justin Lim](https://www.myst-walker.web.app/)
+
 [Sigmund Ban Siy](https://www.myst-walker.web.app/)
+
 [Timothy Lima](https://www.myst-walker.web.app/)
