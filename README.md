@@ -1,7 +1,7 @@
 # Lannang-ue IME
 A keyboard input application for Philippine Hokkien (Lannang-ue).
 
-*This does not use the Microsoft IME due to limited sources for building an Windows IME.*
+*This does not use the Microsoft IME due to limited sources for building an Windows IME, changes can be made in later versions.*
 
 ![Preview](https://i.stack.imgur.com/ZrThv.png)
 ## Download
