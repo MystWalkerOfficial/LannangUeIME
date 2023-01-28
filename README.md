@@ -12,7 +12,7 @@ A keyboard input application for Philippine Hokkien (Lannang-ue).
 **Download 64-bit:** [Lannang-ue_IME_v1.0_64bit.zip](https://www.myst-walker.web.app/)
  ## Tested Windows Versions:
  - [ ] Windows 11
- - [+] Windows 10
+ - [.] Windows 10
  - [ ] Windows 8
  - [ ] Windows 7
 ## Future Plans:
