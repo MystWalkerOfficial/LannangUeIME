@@ -1,7 +1,7 @@
 # Lannang-ue IME
 A keyboard input support for Philippine Hokkien (Lannang-ue) for Windows.
 
-![Preview](https://i.stack.imgur.com/ZrThv.png)
+![Preview](Preview.png)
 ## Download
 
 > **DO NOT** download from other sources, they may contain **virus** and considered **unsafe** and **malicious**.
@@ -16,6 +16,8 @@ A keyboard input support for Philippine Hokkien (Lannang-ue) for Windows.
  - [ ] Windows 7
 ## Future Plans:
  - [ ] Pressing numbers to select an entry from suggestions.
+ - [ ] Options window for configuring and customizing the keyboard.
+ - [ ] Show description for the selected character
 
 ## Contributors:
 [Justin Lim](https://www.myst-walker.web.app/)
