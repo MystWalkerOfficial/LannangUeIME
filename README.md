@@ -6,7 +6,7 @@ A keyboard input support for Philippine Hokkien (Lannang-ue) for Windows.
 # How to use
 To prevent making this page longer, we made a separate page for the instructions of testing the project in [Usage](https://github.com/MystWalkerOfficial/LannangUeIME/blob/main/Usage.md) section.
 
-## Download
+# Download
 
 > **DO NOT** download from other sources, they may contain **virus** and considered **unsafe** and **malicious**.
 
@@ -15,12 +15,13 @@ To prevent making this page longer, we made a separate page for the instructions
 ~~**Download 32-bit:** Lannang-ue_IME_v1.0_32bit.zip~~ (Currently not available)
 
 **Download 64-bit:** [Lannang-ue_IME_v1.0_64bit.zip](https://github.com/MystWalkerOfficial/LannangUeIME/releases/download/v1.0/Lannang-ue_Dev_Release_v1.0_WIN64.zip)
- ## Tested Windows Versions:
+
+# Tested Windows Versions:
  - [ ] Windows 11
  - [x] Windows 10
  - [ ] Windows 8
  - [ ] Windows 7
-## Future Plans:
+# Future Plans:
  - [ ] Pressing numbers to select an entry from suggestions.
  - [ ] Options window for configuring and customizing the keyboard.
  - [ ] Show description for the selected character
