@@ -2,6 +2,10 @@
 A keyboard input support for Philippine Hokkien (Lannang-ue) for Windows.
 
 ![Preview](Preview.png)
+
+# How to use
+To prevent making this page longer, we made a separate page for the instructions of testing the project in [Usage](https://github.com/MystWalkerOfficial/LannangUeIME/blob/main/Usage.md) section.
+
 ## Download
 
 > **DO NOT** download from other sources, they may contain **virus** and considered **unsafe** and **malicious**.
