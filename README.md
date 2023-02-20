@@ -21,3 +21,5 @@ A keyboard input support for Philippine Hokkien (Lannang-ue) for Windows.
  - [ ] Options window for configuring and customizing the keyboard.
  - [ ] Show description for the selected character
  - [ ] Complete the DICTIONARY file
+ - [ ] Release x86 version
+ - [ ] An installer
