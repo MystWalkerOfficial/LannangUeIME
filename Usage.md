@@ -12,6 +12,7 @@ Before you continue, make sure the keyboard is active, to change your current ke
 
 Make sure the IME is selected and active. You should see something like the image below:
 ![Screenshot of the app in taskbar](https://github.com/MystWalkerOfficial/LannangUeIME/raw/main/app_tray.png)
+
 You can toggle it by clicking the ON/OFF icon beside the keyboard icon, or by pressing **Shift** once every toggle.
 # Uninstalling
 Open **test_register.exe** again, then click the **Uninstall** button. After that, you should be able to delete the file without any errors.
