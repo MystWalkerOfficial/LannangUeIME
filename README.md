@@ -22,7 +22,7 @@ To prevent making this page longer, we made a separate page for the instructions
  - [ ] Windows 8
  - [ ] Windows 7
 # Future Plans:
- - [ ] Pressing numbers to select an entry from suggestions.
+ - [x] ~~Pressing numbers to select an entry from suggestions.~~
  - [ ] Options window for configuring and customizing the keyboard.
  - [ ] Show description for the selected character
  - [ ] Complete the DICTIONARY file
