@@ -16,11 +16,15 @@ To prevent making this page longer, we made a separate page for the instructions
 
 **Download 64-bit:** [Lannang-ue_IME_v1.0_64bit.zip](https://github.com/MystWalkerOfficial/LannangUeIME/releases/download/v1.0/Lannang-ue_Dev_Release_v1.0_WIN64.zip)
 
+# Known Bugs:
+- Crashes randomly with the active app (Critical)
+
 # Tested Windows Versions:
  - [ ] Windows 11
  - [x] Windows 10
  - [ ] Windows 8
  - [ ] Windows 7
+
 # Future Plans:
  - [x] ~~Pressing numbers to select an entry from suggestions.~~
  - [ ] Options window for configuring and customizing the keyboard.
